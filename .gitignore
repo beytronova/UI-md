@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Xcode & Swift
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+*.xcworkspace/*
+!*.xcworkspace/contents.xcworkspacedata
+
+# Swift Package Manager
+Packages/
+Package.pins
+Package.resolved
+
+# Temporary / OS
+*.swp
+*~
+.Spotlight-V100
+.Trashes
