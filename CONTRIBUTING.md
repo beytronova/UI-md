@@ -35,3 +35,4 @@ Thank you for your interest in contributing to **UI-md**! This repository aims t
 ## 📄 License
 
 By contributing to UI-md, you agree that your contributions will be licensed under the [MIT License](LICENSE).
+
