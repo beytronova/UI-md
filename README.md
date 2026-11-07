@@ -1,13 +1,41 @@
+<div align="center">
+
 # UI-md 📱✨
 
 > **The Definitive Apple HIG Design System & AI Coding Agent Architecture for iOS / iPadOS**
 
+<br />
+
+<!-- LANGUAGE SWITCHER BAR / DİL GEÇİŞ ÇUBUĞU -->
+[![English](https://img.shields.io/badge/Language-English%20(Active)-238636?style=for-the-badge&logo=github&logoColor=white)](README.md)
+[![Türkçe](https://img.shields.io/badge/Dil-Türkçe-E30A17?style=for-the-badge&logo=apple&logoColor=white)](README.tr.md)
+
+<br />
+<br />
+
 [![Swift](https://img.shields.io/badge/Swift-5.9%2B-orange.svg?style=flat&logo=swift)](https://swift.org)
 [![iOS](https://img.shields.io/badge/iOS-17.0%2B-blue.svg?style=flat&logo=apple)](https://developer.apple.com/ios/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Apps Catalog](https://img.shields.io/badge/Apps%20Reverse--Engineered-200-brightgreen.svg)](references/UI_REFERENCES_INDEX.md)
 [![Apple HIG](https://img.shields.io/badge/Apple%20HIG-100%25%20Compliant-purple.svg)](rules/ios_core_hig.md)
 [![App Store Review](https://img.shields.io/badge/App%20Store%20Review-Section%2010%20Ready-success.svg)](rules/app_store_review_rules.md)
+
+</div>
+
+---
+
+<!-- INTERACTIVE ACCORDION FOR INSTANT IN-PAGE TOGGLE -->
+<details>
+<summary><b>🇹🇷 Türkçe Hızlı Özet (Sayfadan Ayrılmadan Oku / Tıklayın)</b></summary>
+<br />
+
+> **UI-md**, iOS ve iPadOS için 200 dünya çapında uygulamanın (Airbnb, Spotify, Duolingo vb.) tersine mühendislikle çıkarılmış tasarım sistemini, Apple HIG kurallarını ve AI ajan (Cursor, Windsurf, Claude Code, Antigravity) talimatlarını bir araya getiren açık kaynaklı bir kütüphanedir.
+>
+> 🇹🇷 **Tam Türkçe dokümantasyona geçmek için tıklayın:** [README.tr.md](README.tr.md)
+
+</details>
+
+---
 
 **UI-md** is an open-source, battle-tested design framework and AI instruction toolkit built for mobile software engineers, product designers, and AI coding agents (Cursor, Windsurf, Claude Code, Antigravity, Copilot).
 
@@ -47,7 +75,8 @@ Modern AI agents often produce web-like, un-ergonomic iOS interfaces with arbitr
 
 ```
 UI-md/
-├── README.md                      # Global master documentation & index
+├── README.md                      # Global master documentation & index (English)
+├── README.tr.md                   # Full Turkish documentation (Türkçe)
 ├── PORTABLE_IOS_DESIGN_RULES.md   # All-in-one portable rule set for any iOS project
 ├── AGENTS.md                      # AI agent entry point & behavior instructions
 ├── LICENSE                        # MIT Open Source License
@@ -199,4 +228,3 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for more informati
 <p align="center">
   Crafted with for the Apple & AI Developer Community by <b>Ali Beysülen</b>
 </p>
-
